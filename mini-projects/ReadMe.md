@@ -25,8 +25,8 @@ _The directory contains the following the programs_
 
 _Coming soon... Upcoming planned mini projects to be finished by April 2021_
 
-5.  Chroma keying in videos.
+5.  Face detection using Voila Jones Algrithm
 
-7.  Optical flow using Lucas Kanade.
+6.  Scene Recognition using bag of Visual words
 
 9.  Image classifcation on Cifa-100
