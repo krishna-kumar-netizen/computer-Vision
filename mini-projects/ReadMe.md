@@ -21,12 +21,6 @@ _The directory contains the following the programs_
 4. Image segmentation _The Famous Grab cut algorithm by Microsoft R&D_
    1. GMM modeling by EM algorithm. 
    2. Min Cut or max flow graph based image segmentation
-   3. Iterative minimization of graph based image segmentaiotn algorithm. 
+   3. Iterative minimization of graph based image segmentaiotn algorithm.
 
-_Coming soon... Upcoming planned mini projects to be finished by April 2021_
-
-5.  Face detection using Voila Jones Algrithm
-
-6.  Scene Recognition using bag of Visual words
-
-9.  Image classifcation on Cifa-100
+5. Food classification using fully connected neural network. 
